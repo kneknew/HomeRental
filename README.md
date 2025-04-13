@@ -12,7 +12,7 @@ Containerization tool: Docker & Docker Compose.
 
 📖 Instructions:
 Clone the repo: 
-git clone https://github.com/kneknew/TravelBooking.git
+git clone https://github.com/kneknew/HomeRental.git
 
 Follow the steps above to deploy the application.
 
